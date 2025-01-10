@@ -56,7 +56,7 @@ function App() {
           </div>
           <div className="wind">
             {data.wind ? <p className='bold'>{data.wind.speed} MPH </p> : null} 
-            <p>wind speed</p>
+            <p>Wind speed</p>
           </div>
           </div>
      }   
